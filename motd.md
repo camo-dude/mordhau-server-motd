@@ -5,6 +5,7 @@
 ## Rules
 
 - No ranged weapons
+- Respect 1v1s
 - No griefing/trolling
 - Respect other players
 - Listen to admins
